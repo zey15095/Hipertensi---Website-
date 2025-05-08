@@ -13,12 +13,39 @@ Hipertensi adalah kondisi tekanan darah tinggi yang terjadi secara terus-menerus
 * Mudah lelah
 * Terkadang tanpa gejala (disebut “silent killer”)
 
-**Komposisi Obat yang Umum Digunakan**
+**Komposisi Obat yang Umum Digunakan Namun Harus Sesuai Dengan Anjuran dari Dokter**
 
-* **Amlodipine:** Mengendurkan pembuluh darah
-* **Captopril / Lisinopril:** Menghambat enzim penyebab tekanan naik
-* **Hydrochlorothiazide:** Mengurangi cairan tubuh
-* **Losartan:** Mengontrol tekanan lewat kerja hormon
+ **1. Amlodipine (Calcium Channel Blocker)** => Obat ini akan mangendurkan pembuluh darah
+
+* **Dosis awal:** 5 mg sekali sehari
+* **Dosis maksimal:** 10 mg per hari
+* Cocok untuk pasien dengan hipertensi ringan hingga sedang
+
+
+**2. Captopril (ACE Inhibitor)** => Menghambat enzim penyebab tekanan naik 
+
+* **Dosis awal:** 12,5 – 25 mg, 2–3 kali sehari
+* **Dosis maksimal:** 150 mg per hari
+* Perlu pemantauan tekanan darah karena efek cepat
+
+
+ **3. Losartan (ARB – Angiotensin Receptor Blocker)** => Mengontrol tekanan lewat kerja hormon
+
+* **Dosis awal:** 50 mg sekali sehari
+* **Dosis maksimal:** 100 mg per hari
+* Cocok untuk pasien dengan gangguan ginjal
+
+
+### **4. Hydrochlorothiazide (Diuretik)** => Mengurangi cairan tubuh
+
+* **Dosis umum:** 12,5 – 25 mg sekali sehari
+* **Efek:** Membantu mengurangi volume cairan dalam tubuh
+
+ **Catatan Penting:**
+
+* Obat **tidak boleh dikombinasikan sembarangan**
+* **Minum sesuai anjuran dokter**
+* Lakukan **kontrol rutin tekanan darah**
 
 **Aturan Pakai**
 
