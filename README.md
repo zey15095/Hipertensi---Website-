@@ -2,7 +2,7 @@
  **Apa itu Hipertensi?**
 
 Hipertensi adalah kondisi tekanan darah tinggi yang terjadi secara terus-menerus. Biasanya hipertensi didefinisikan sebagai tekanan darah di atas 140/90, dan dianggap parah jika tekanan di atas 180/120. Jika tidak dikendalikan, bisa menyebabkan penyakit jantung, stroke, dan kerusakan ginjal.
-
+https://github.com/zey15095/Hipertensi---Website-/blob/cd2113619c9c6a04557cbddbc01f7b016660f7e2/Screenshot_20250508-213158_1.jpg
 
  **Apasih Gejala yang Sering Timbul?**
 
