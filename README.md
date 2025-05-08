@@ -17,16 +17,23 @@ Hipertensi adalah kondisi tekanan darah tinggi yang terjadi secara terus-menerus
 
  **1. Amlodipine (Calcium Channel Blocker)** => Obat ini akan mangendurkan pembuluh darah
 
-* **Dosis awal: DEWASA** 5 mg sekali sehari
-* **Dosis maksimal: DEWASA** 10 mg per hari
-* Cocok untuk pasien dengan hipertensi ringan hingga sedang
+• **Dewasa: Dosis awal** 5 mg, 1 kali sehari. Dosis dapat ditingkatkan berdasarkan kondisi dan respons pasien terhadap pengobatan setelah 1–2 minggu. **Dosis maksimal**: 10 mg 1 kali sehari.
+
+● **Anak-anak usia 6–17 tahun**: Dosis awal 2,5 mg, 1 kali sehari. Jika perlu, dosis dapat ditingkatkan menjadi 5 mg, 1 kali sehari, setelah 4 minggu. Peningkatan dosis ditentukan berdasarkan kondisi dan respons pasien terhadap pengobatan.
+
+● **Lansia:** Dosis awal 2,5 mg 1 kali sehari.
 
 
 **2. Captopril (ACE Inhibitor)** => Menghambat enzim penyebab tekanan naik 
 
-* **Dosis awal: DEWASA** 12,5 – 25 mg, 2–3 kali sehari
-* **Dosis maksimal: DEWASA** 150 mg per hari
-* Perlu pemantauan tekanan darah karena efek cepat
+● **Dewasa: Dosis awal** 12,5–25 mg, 2 kali sehari. Dosis dapat ditingkatkan hingga 50–75 mg per hari, 2 kali sehari setelah 2 minggu pengobatan.
+
+● **Anak-anak: Dosis awal** 0,3 mg/kgBB per hari, dibagi ke dalam 3 kali pemberian.
+
+● **Anak usia <1 tahun**: Dosisnya 0,15 mg/kgBB per hari, dibagi ke dalam 3 kali pemberian.
+
+● **Lansia: Dosis awal** 6,25 mg, 2 kali sehari. Dosis dapat ditingkatkan tergantung pada tekanan darah pasien.
+* Cocok untuk pasien dengan hipertensi ringan hingga sedang
 
 
  **3. Losartan (ARB – Angiotensin Receptor Blocker)** => Mengontrol tekanan lewat kerja hormon
@@ -38,8 +45,15 @@ Hipertensi adalah kondisi tekanan darah tinggi yang terjadi secara terus-menerus
 
 ### **4. Hydrochlorothiazide (Diuretik)** => Mengurangi cairan tubuh
 
-* **Dosis umum: DEWASA** 12,5 – 25 mg sekali sehari
-* **Efek:** Membantu mengurangi volume cairan dalam tubuh
+1. **Dewasa:** 12,5 mg per hari, sebagai obat tunggal atau dikombinasikan dengan obat antihipertensi lainnya. Dosis dapat ditingkatkan hingga 50 mg per hari sesuai kebutuhan pasien. Dosis maksimal 100 mg per hari.
+   
+2. **Anak usia 2–12 tahun: 1–2 mg/kgBB** per hari sebagai dosis tunggal atau dibagi dalam 2 jadwal konsumsi. Dosis maksimal 100 mg per hari.
+
+3. **Anak usia <2 tahun: 1–2 mg/kgBB** per hari sebagai dosis tunggal atau dibagi dalam 2 jadwal konsumsi. Dosis maksimal 37,5 mg per hari.
+
+4. **Anak usia <6 bulan**: 3 mg/kgBB per hari dibagi dalam 2 jadwal konsumsi.
+
+5. **Lansia**: 12,5 mg per hari. Dosis dapat ditambahkan sebanyak 12,5 mg jika perlu.
 
  **Catatan Penting:**
 
